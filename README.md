@@ -1,4 +1,6 @@
 # B-DEV-500-LYN-5-1-dashboard-thibault.bordenave
+[![CodeFactor](https://www.codefactor.io/repository/github/neyross/dashboard/badge)](https://www.codefactor.io/repository/github/neyross/dashboard)
+
 
 # REDDITECH DOCUMENTATION
 
